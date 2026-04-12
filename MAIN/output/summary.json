@@ -1,0 +1,31 @@
+{
+    "timestamp": "2026-04-12T13:38:27.684196",
+    "statistics": {
+        "total_bytes": 207770,
+        "n_packets": 5400,
+        "duration": 28.610413194444448,
+        "pkt_rate": 188.74246811117598,
+        "dominant_size": 38,
+        "baud_inferred": 115200,
+        "entropy_header": 2.0,
+        "entropy_payload": 0.42465508241075844,
+        "burst_period": 38.0
+    },
+    "inference": {
+        "platform": "QNu Qore Post-Quantum Drone",
+        "protocol": "MAVLink v2 (Encrypted)",
+        "confidence": 0.7,
+        "flight_duration": 28.610413194444448,
+        "command_types": [
+            "HEARTBEAT",
+            "RC_CHANNELS",
+            "GPS_RAW_INT",
+            "ENCRYPTED_TELEMETRY"
+        ],
+        "sync_period": 38.0,
+        "evidence_list": [
+            "Baud rate matches standard Pixhawk/MAVLink telemetry.",
+            "Dominant packet size (38) matches standard MAVLink telemetry heartbeat."
+        ]
+    }
+}
