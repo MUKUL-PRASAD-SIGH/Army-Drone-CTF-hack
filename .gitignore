@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+astra_v11/output/
+astra_v11/data/
+*.log
+.DS_Store
