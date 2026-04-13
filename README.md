@@ -1,7 +1,7 @@
 <div align="center">
 
-# ASTRA-V11 (Quantum Safe Drone Hackathon)
-## ADVANCED SIGINT TELEMETRY RECONNAISSANCE & ANALYSIS ( Army Base )
+# ASTRA-V11(Quantum Safe Drone Hackathon)
+## ADVANCED SIGINT TELEMETRY RECONNAISSANCE & ANALYSIS (Army Base)
 
 ![System Profile](https://img.shields.io/badge/System-SIGINT_PIPELINE-1e3c72?style=for-the-badge)
 ![Security](https://img.shields.io/badge/Link-POST_QUANTUM_ENCRYPTED-2a5298?style=for-the-badge)
